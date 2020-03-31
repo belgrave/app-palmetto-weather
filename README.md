@@ -1,4 +1,6 @@
-Weather Belgrave Henderson
+App to call a api to Display the current Weather and a few hours into the
+future.
+
 Default location 10553
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
